@@ -26,4 +26,5 @@ Na programação, diferentes ferramentas são versáteis o suficiente para serem
 
 A seguir, dois prints: um do Diagrama EER do banco de dados, outro da tela de empréstimo do sistema enquanto é usado:
 
-![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/Biblioteca/blob/master/biblioteca/screenshot_emprestimo.png)
+![Aqui há um print do Diagrama EER](https://github.com/BitencourtVitor/Biblioteca/blob/master/biblioteca/screenshot_diagramaeer.png)
+![Aqui há um print do Sistema](https://github.com/BitencourtVitor/Biblioteca/blob/master/biblioteca/screenshot_emprestimo.png)
